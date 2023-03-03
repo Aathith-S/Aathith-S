@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aathith-S
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking for a right mentor
 - 📫 Contact me with aathith.s2002@gmail.com
 
